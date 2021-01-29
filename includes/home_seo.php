@@ -1,0 +1,16 @@
+<div class="seo_text">
+
+    
+<h5>About Magic: the Gathering</h5>
+<p>Magic the Gathering (MTG) is the brain child of Richard Garfield who through Wizards of the Coast published the first set of Magic cards in 1993.  That set was titled Alpha, followed shortly by Beta and then Unlimited.  Magic to this day is a favorite pass-time for people of all ages, played worldwide.  There is even a Pro Tour with four large events, aptly called "Magic: the Gathering Pro Tour," as well as a series of Grand Prix.  The events are distributed through out the world. Some of the Pro Players from Magic's Pro Tours include Ben Lundquist, Luis Scott-Vargas (LSV), Gerry Thompson, Patrick Chapin, John Finkle, and Shuhei Nakamura.</p>
+
+<h5>The Most Popular CCG</h5>
+<p>MTG cards are not just for playing a game.  Magic: the Gathering is technically called a collectible card game--or CCG or TCG (Trading Card Game).  This means Magic cards carry individual values, ranging from a few cents a piece to in some cases, over $1000 each.  There is one group of cards with especially high value--much of this is the result of Wizards of the Coast promising to never reprint the cards; this means they're extremely scarce.  These cards are called the "Power 9."  They are Black Lotus, Mox Pearl, Mox Sapphire, Mox Jet, Mox Ruby, Mox Emerald, Ancestral Recall, Time Walk and Timetwister.  In addition to being very rare, the Power 9 each possess very powerful effects within the Magic game.  These are not the only powerful and valuable cards.  Cards from Arabian Nights, the first expansion set to the "Core Set" (Alpha, Beta, and Unlimited), are also especially valuable due to their limited print runs. </p>
+
+<h5>Magic the Gathering Accessories</h5>
+<p>Players very frequently carry their cards in binders &ndash; called "Trade binders" by mtg players.  Magic players often keep very valuable cards in their tradebinders to trade cards with other players, in hopes of filling in their collections.  Because Wizards of the Coast (WotC) has published approximately 10,000 individual cards, trading is a very frequent occurance, seen at all Magic the Gathering events, whether that be upcoming Pro Tour San Juan or a local Friday Night Magic (FNM). A list of notable and recent cards include Tarmogoyf (Future Sight), Bitterblossom (Lorwyn), Cryptic Command (Lorwyn), Baneslayer Angel (Magic 2010 or M10), and new 'enmey fetchlands' such as Arid Mesa, Marsh Flats, Misty Rainforest, Scalding Tarn and Verdant Catacombs (Zendikar).</p>
+
+<p>Due to the high value of Magic the Gathering cards, many players carry their cards in cardboard boxes, plastic boxes (often called deck boxes), while also putting each individual card in a plastic sleeve.  Here's a full list of accessories for Magic the Gathering players: Deck Boxes, Sleeves, Playmats, Dice, Counters, Tradebinder, and scorecards.  In 2009, Power 9 Pro released the Dragon's Egg, a bag designed specifically to keep Magic cards safe, making it the newest addition to a number of Magic related accessories. Power 9 Pro also released the N-Dexers, a patent-pending product for indexing boxes of cards (by type, color, rarity, etc.) in all industry standard storage boxes.   </p>
+    
+    
+</div>
