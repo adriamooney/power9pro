@@ -3,10 +3,10 @@
     <div>
 
         <ul class="nav navbar-nav navbar-left">
-            <li><a href="/About_Power_9_Pro.php">about</a></li>
+           <!--  <li><a href="/About_Power_9_Pro.php">about</a></li>
             <li><a href="/privacy.php">privacy</a></li>
             <li><a href="/terms.php">terms</a></li>
-            <li><a href="/warranty/">warranty</a></li>
+            <li><a href="/warranty/">warranty</a></li> -->
             
         </ul>
         <!--<ul class="nav navbar-nav navbar-left">
